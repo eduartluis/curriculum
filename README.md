@@ -71,11 +71,11 @@ _Accomplishments_<br>
 
 ##Education & Credentials
 ### Formal Studies
-Specialization in Informatic Project Management,<br>
+>Specialization in Informatic Project Management,<br>
 [Universidad EAN](https://universidadean.edu.co/),<br>
 Bogotá, Colombia, 2012.<br>
 <br>
-Bachelor of Science in Software Engineering,<br>
+>Bachelor of Science in Software Engineering,<br>
 [Universidad Industrial de Santander - UIS](https://www.uis.edu.co/webUIS/es/index.jsp),<br>
 Bucaramanga, Colombia, 2007.<br>
 
@@ -122,4 +122,13 @@ Bucaramanga, Colombia, 2007.<br>
 </tr>
 </tbody>
 </table>
+
+
+| Issued By                      | Code    | Title                               | Date    |
+| -------------------------------|---------|-------------------------------------|-------- |
+| AWS Training and Certification | SAA-C02 | AWS Solutions Architect - Associate | Mar 2021|
+| AWS Training and Certification | DVA-C01 | AWS Developer - Associate           | Aug 2021|
+| CertiProf                      | DEPC    | DevOps Fundamentals                 | Aug 2020|
+| CertiProf                      | SPOPC   | Scrum Product Owner Professional    | Dec 2017|
+| CertiProf                      | SMPC    | Scrum Master Professional           | Dec 2017|
    
