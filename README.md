@@ -1,6 +1,5 @@
 # Eduart Luis Doria Acevedo
-## IT Professional
-### [curriculum](https://www.linkedin.com/in/eduartluis)
+## [IT Professional](https://www.linkedin.com/in/eduartluis)
 
 Experienced software engineer with a passion for developing applications that expedite efficiency and effectiveness of
 organizational success. Well-versed in technology to design and create systems that are reliable and meet business and
@@ -21,6 +20,7 @@ the right tool for the job in order to achieve business goals.
 **Others**: DevOps, Agile Methodologies (SCRUM), Data Modeling E/R, Swagger, UML, HTML, CSS.
 
 ## Professional Experience
+
 ### [PRAGMA](https://www.pragma.com.co/)
 Solutions Architect Jan 2021 - Current (Present)<br>
 [BTG](https://www.btgpactual.com.co/), [Bancolombia](https://www.bancolombia.com/)<br>
@@ -35,15 +35,13 @@ Integration Architect Feb 2018 - Jan 2021<br>
 Identification of improvement opportunities that allow a better response to the customer needs taking advantage of available resources. Leader of the development teams in charge of the implementations and improvements requested by the client. Implementation of business process, file transfer, and document transformation through map editor. Supporting existing integrations and services in IBM BUS 10. Report generation for costs in AWS defining tags and categories.
 Participate in pre-sales activities.<br>
 
-**Accomplishments**<br>
+_Accomplishments_<br>
 - Design use cases of file transfer with Sterling.
 - A road map for migration of current file transfers to Sterling.
 - Successfully made the first transfer from Sterling to AWS.
 - Pioneer in Shell script implementation for CI/CD in Sterling.
-- Tuning AWS infrastructure for delivery management system with several e-commerce and social commerce
-customers.
-- A redesign of the data model in MongoDB. Index definition, Database size, JSON document definition.Eliminating
-bottleneck and decreasing service quota meaning in a bill reduction of about 20%.
+- Tuning AWS infrastructure for delivery management system with several e-commerce and social commerce customers.
+- A redesign of the data model in MongoDB. Index definition, Database size, JSON document definition. Eliminating bottleneck and decreasing service quota meaning in a bill reduction of about 20%.
 
 ### [Sophos Banking Solutions](https://www.sophossolutions.com/)
 Senior Technical Consultant Nov 2012 - Feb 2018<br>
@@ -69,13 +67,13 @@ _Accomplishments_<br>
 ## Education & Credentials
 
 ### Formal Studies
->Specialization in Informatic Project Management,<br>
-[Universidad EAN](https://universidadean.edu.co/),<br>
-Bogotá, Colombia, 2012.<br>
-<br>
->Bachelor of Science in Software Engineering,<br>
-[Universidad Industrial de Santander - UIS](https://www.uis.edu.co/webUIS/es/index.jsp),<br>
-Bucaramanga, Colombia, 2007.<br>
+> **Specialization in Informatic Project Management**,
+> [Universidad EAN](https://universidadean.edu.co/),
+> Bogotá, Colombia, 2012.
+
+> **Bachelor of Science in Software Engineering**,
+> [Universidad Industrial de Santander - UIS](https://www.uis.edu.co/webUIS/es/index.jsp),
+> Bucaramanga, Colombia, 2007.
 
 ### [Certifications](https://www.credly.com/users/eduart.doria/badges) 
 
