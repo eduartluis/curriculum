@@ -67,12 +67,12 @@ _Accomplishments_<br>
 ## Education & Credentials
 
 ### Formal Studies
-> **Specialization in Informatic Project Management**,
-> [Universidad EAN](https://universidadean.edu.co/),
+> **Specialization in Informatic Project Management**<br>
+> [Universidad EAN](https://universidadean.edu.co/)<br>
 > Bogotá, Colombia, 2012.
 
-> **Bachelor of Science in Software Engineering**,
-> [Universidad Industrial de Santander - UIS](https://www.uis.edu.co/webUIS/es/index.jsp),
+> **Bachelor of Science in Software Engineering**<br>
+> [Universidad Industrial de Santander - UIS](https://www.uis.edu.co/webUIS/es/index.jsp)<br>
 > Bucaramanga, Colombia, 2007.
 
 ### [Certifications](https://www.credly.com/users/eduart.doria/badges) 
